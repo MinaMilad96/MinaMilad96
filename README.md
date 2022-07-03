@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Programming, Math problems solving
 - 💞️ I’m looking to ...Be Famous Programmer
 - 📫 How to reach me ..."mina.milad.fahim3@gmail.com"
--                    ... "https://www.linkedin.com/in/mina-milad-fahim-191698229/"
+-                    ... "Linkedin: https://www.linkedin.com/in/mina-milad-fahim-191698229/ "
 -                    ... "WhatsApp: +2001205775479"
 
 <!---
