@@ -4,7 +4,6 @@
 - 💞️ I’m looking to ...Be Famous Programmer
 - 📫 How to reach me ..."mina.milad.fahim3@gmail.com"
 -                     linkedin.com/in/mina-milad-fahim-191698229
--                     
 -                    ... "WhatsApp: +2001205775479"
 
 <!---
