@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MinaMilad96
+- 👋 Hi, I’m Mina Milad Fahim
 - 👀 I’m interested in ...Programming, Photoshop, Design, Math
 - 🌱 I’m currently learning ...Programming, Math problems solving
 - 💞️ I’m looking to ...Be Famous Programmer
